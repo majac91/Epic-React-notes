@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "5b18dbc83a3f2b4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fae2cbc31431b4ed",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2. Intro to raw React APIs.md.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a59af0075bd3fd2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "817f1e733023cfd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea33dba6adf52fd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e01e65808cfaefb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2f775a42f9f8758",
+    "type": "split",
+    "children": [
+      {
+        "id": "920820a930e04b87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "340eee498390ec0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Intro to raw React APIs.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "2. Intro to raw React APIs.md.md",
+    "Untitled.md"
+  ]
+}
